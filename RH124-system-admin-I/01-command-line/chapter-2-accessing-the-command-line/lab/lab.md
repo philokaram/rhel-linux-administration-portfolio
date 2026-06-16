@@ -1,5 +1,3 @@
----
-
 # 1. Display current date and time
 
 ```bash
