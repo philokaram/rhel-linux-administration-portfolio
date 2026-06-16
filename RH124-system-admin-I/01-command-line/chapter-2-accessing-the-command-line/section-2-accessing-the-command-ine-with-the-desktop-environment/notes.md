@@ -1,5 +1,3 @@
----
-
 # GNOME Desktop in RHEL — Notes
 
 ## 1. What is GNOME?
