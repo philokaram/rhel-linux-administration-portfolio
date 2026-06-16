@@ -1,5 +1,3 @@
----
-
 # Linux Command Line (Bash) — Notes
 
 ## 1. What is the Command Line?
