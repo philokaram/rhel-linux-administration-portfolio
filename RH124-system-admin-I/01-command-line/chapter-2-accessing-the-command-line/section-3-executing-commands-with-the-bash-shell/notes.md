@@ -1,5 +1,3 @@
----
-
 # Bash Shell – Executing Commands (Advanced Notes)
 
 ## 1. Command Structure (Review)
